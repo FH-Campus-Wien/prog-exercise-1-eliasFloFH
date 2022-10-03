@@ -193,10 +193,6 @@ public class App {
             System.out.println("Not a Leapyear");
         }
 
-
-
-
-
     }
 
     //todo Task 10
